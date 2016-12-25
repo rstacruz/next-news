@@ -1,0 +1,14 @@
+{
+  "name": "nextnews",
+  "dependencies": {
+    "firebase": "3.5.2",
+    "ms": "0.7.2",
+    "next": "^2.0.0-beta.2",
+    "url-parse": "1.1.7"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
