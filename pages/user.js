@@ -1,3 +1,2 @@
-import React from 'react'
-export default () => <div>user</div>
+export default () => <div>user page (WIP)</div>
 
