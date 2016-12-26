@@ -13,6 +13,11 @@ export default () => (
       button {
         padding: 3px 4px;
       }
+      @media (max-width: 750px) {
+        textarea {
+          width: 100%;
+        }
+      }
     `}</style>
   </div>
 )
