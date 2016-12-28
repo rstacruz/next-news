@@ -1816,9 +1816,9 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
-next@2.0.0-beta.4:
-  version "2.0.0-beta.4"
-  resolved "https://registry.yarnpkg.com/next/-/next-2.0.0-beta.4.tgz#68874d296877bc0c6ff177b64db729554ca1532c"
+next@2.0.0-beta.5:
+  version "2.0.0-beta.5"
+  resolved "https://registry.yarnpkg.com/next/-/next-2.0.0-beta.5.tgz#69e83f925c473934b5d393ebc6fbc107f587f556"
   dependencies:
     accepts "1.3.3"
     ansi-html "0.0.6"
