@@ -1,9 +1,14 @@
 {
   "name": "next-news",
+  "engines": {
+    "ace": "beta"
+  },
+  "license": "mit",
   "dependencies": {
     "firebase": "3.5.2",
     "ms": "0.7.2",
-    "next": "2.0.0-beta.5",
+    "next": "2.0.0-beta.9",
+    "nprogress": "^0.2.0",
     "url-parse": "1.1.7"
   },
   "scripts": {
