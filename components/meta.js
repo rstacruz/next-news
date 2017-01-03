@@ -14,7 +14,7 @@ export default () => (
     </Head>
     <style jsx global>{`
       body {
-        font-family: SF UI Text, -apple-system, Helvetica, Arial, sans-serif;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
         background: #eee;
       }
 
