@@ -3,7 +3,7 @@
   "engines": {
     "ace": "beta"
   },
-  "license": "mit",
+  "license": "MIT",
   "dependencies": {
     "firebase": "3.5.2",
     "ms": "0.7.2",
